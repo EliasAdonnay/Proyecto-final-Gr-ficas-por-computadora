@@ -1,1 +1,1 @@
-# Proyecto-final-Gr-ficas-por-computadora
+# Proyecto-final-Graficas-por-computadora
