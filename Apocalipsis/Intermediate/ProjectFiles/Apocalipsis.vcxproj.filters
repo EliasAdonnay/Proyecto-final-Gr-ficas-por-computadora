@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Apocalipsis.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{12C1A92B-26FE-453C-9DB8-F760F540F0C2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Apocalipsis.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ApocalipsisEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{389CBBF6-027D-4E65-8BE9-EF1A6E85BFF5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Apocalipsis">
+      <UniqueIdentifier>{0D04350E-1843-4114-80A1-F50F9BDC7AB9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Apocalipsis\Apocalipsis.Build.cs">
+      <Filter>Source\Apocalipsis</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Apocalipsis\Apocalipsis.cpp">
+      <Filter>Source\Apocalipsis</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Apocalipsis\Apocalipsis.h">
+      <Filter>Source\Apocalipsis</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Apocalipsis\CaracterBase.cpp">
+      <Filter>Source\Apocalipsis</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Apocalipsis\CaracterBase.h">
+      <Filter>Source\Apocalipsis</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

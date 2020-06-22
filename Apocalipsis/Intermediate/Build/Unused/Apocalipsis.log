@@ -1,0 +1,56 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Graficas).
+  Parsing headers for ApocalipsisEditor
+    Running UnrealHeaderTool "D:\Graficas\Apocalipsis\Apocalipsis.uproject" "D:\Graficas\Apocalipsis\Intermediate\Build\Win64\ApocalipsisEditor\Development\ApocalipsisEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\adonn\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for ApocalipsisEditor in 39.487593 seconds
+  Building ApocalipsisEditor...
+  Using Visual Studio 2019 14.26.28805 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 6 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  CaracterBase.cpp (2:38.01 at +0:00)
+  Nota: inclusión del archivo: D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Development\Apocalipsis\Definitions.Apocalipsis.h
+  Nota: inclusión del archivo: D:\Graficas\Apocalipsis\Source\Apocalipsis\CaracterBase.h
+  Nota: inclusión del archivo:  E:\UNREAL\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+  Nota: inclusión del archivo:   E:\UNREAL\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+  Nota: inclusión del archivo:    E:\UNREAL\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+  Nota: inclusión del archivo:   E:\UNREAL\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+  Nota: inclusión del archivo:  D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Inc\Apocalipsis\CaracterBase.generated.h
+EXEC : warning : unable to get MBCS string (input text 'Nota: inclusi�n del archivo:%s%s
+  ', library C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\HostX64\x64\3082\clui.dll)
+  Apocalipsis.init.gen.cpp (0:41.43 at +2:38)
+  Nota: inclusión del archivo: D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Development\Apocalipsis\Definitions.Apocalipsis.h
+  Nota: inclusión del archivo: E:\UNREAL\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+  Nota: inclusión del archivo:  E:\UNREAL\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+EXEC : warning : unable to get MBCS string (input text 'Nota: inclusi�n del archivo:%s%s
+  ', library C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\HostX64\x64\3082\clui.dll)
+  CaracterBase.gen.cpp (0:24.10 at +3:19)
+  Nota: inclusión del archivo: D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Development\Apocalipsis\Definitions.Apocalipsis.h
+  Nota: inclusión del archivo: E:\UNREAL\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+  Nota: inclusión del archivo:  E:\UNREAL\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+  Nota: inclusión del archivo: D:\Graficas\Apocalipsis\Source\Apocalipsis/CaracterBase.h
+  Nota: inclusión del archivo:  E:\UNREAL\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+  Nota: inclusión del archivo:   E:\UNREAL\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+  Nota: inclusión del archivo:    E:\UNREAL\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+  Nota: inclusión del archivo:   E:\UNREAL\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+  Nota: inclusión del archivo:  D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Inc\Apocalipsis\CaracterBase.generated.h
+EXEC : warning : unable to get MBCS string (input text 'Nota: inclusi�n del archivo:%s%s
+  ', library C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\HostX64\x64\3082\clui.dll)
+  UE4Editor-Apocalipsis-0002.dll (0:01.70 at +3:43)
+     Creando biblioteca D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Development\Apocalipsis\UE4Editor-Apocalipsis-0002.suppressed.lib y objeto D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Development\Apocalipsis\UE4Editor-Apocalipsis-0002.suppressed.exp
+  UE4Editor-Apocalipsis-0002.lib (0:00.32 at +3:45)
+     Creando biblioteca D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Development\Apocalipsis\UE4Editor-Apocalipsis-0002.lib y objeto D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Development\Apocalipsis\UE4Editor-Apocalipsis-0002.exp
+  ApocalipsisEditor.target (0:00.90 at +3:45)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 228.16 seconds
+  Total execution time: 269.50 seconds

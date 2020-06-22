@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Graficas\\Apocalipsis\\Source\\Apocalipsis\\Apocalipsis.Build.cs",
+		"D:\\Graficas\\Apocalipsis\\Source\\Apocalipsis.Target.cs",
+		"D:\\Graficas\\Apocalipsis\\Source\\ApocalipsisEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.0"
+}

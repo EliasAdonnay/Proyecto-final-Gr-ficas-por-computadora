@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Apocalipsis-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Graficas\Apocalipsis\Intermediate\Build\Win64\ApocalipsisEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Development\Apocalipsis\Apocalipsis.cpp.obj"
+"D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Development\Apocalipsis\CaracterBase.cpp.obj"
+"D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Development\Apocalipsis\Apocalipsis.init.gen.cpp.obj"
+"D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Development\Apocalipsis\CaracterBase.gen.cpp.obj"
+"D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Development\Apocalipsis\Default.rc2.res"
+/OUT:"D:\Graficas\Apocalipsis\Intermediate\Build\Win64\UE4Editor\Development\Apocalipsis\UE4Editor-Apocalipsis-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_Apocalipsis

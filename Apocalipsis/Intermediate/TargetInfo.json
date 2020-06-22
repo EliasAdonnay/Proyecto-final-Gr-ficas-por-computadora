@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Apocalipsis",
+			"Path": "D:\\Graficas\\Apocalipsis\\Source\\Apocalipsis.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ApocalipsisEditor",
+			"Path": "D:\\Graficas\\Apocalipsis\\Source\\ApocalipsisEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
