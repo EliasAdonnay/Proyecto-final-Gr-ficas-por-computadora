@@ -1,0 +1,1125 @@
+﻿Log file open, 06/29/20 01:35:46
+LogInit: Display: Running engine for game: Apocalipsis
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.233480
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13144385
+LogInit: Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): May  2 2020 02:12:11
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=DangerousPower -epicuserid=34b1cc885d4d468bbd7a8957e97747d0 -epiclocale=es-MX
+LogInit: Base Directory: E:/UNREAL/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Engine.ini]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Engine.ini]
+[2020.06.29-06.35.46:582][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Engine.ini]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Engine.ini]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.29-06.35.46:582][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Engine.ini]
+[2020.06.29-06.35.46:582][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Engine.ini]
+[2020.06.29-06.35.46:588][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.29-06.35.46:588][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.06.29-06.35.46:589][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.06.29-06.35.46:589][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.29-06.35.46:589][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.29-06.35.46:590][  0]LogHAL: Display: Platform has ~ 8 GB [8443301888 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.29-06.35.46:590][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.29-06.35.46:590][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.29-06.35.46:590][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Scalability.ini]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.06.29-06.35.46:591][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.29-06.35.46:592][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.29-06.35.46:592][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.29-06.35.46:592][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.06.29-06.35.46:592][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Graficas/Apocalipsis/Saved/Config/Windows/Engine.ini]
+[2020.06.29-06.35.46:592][  0]LogInit: Computer: LEGIONY720
+[2020.06.29-06.35.46:592][  0]LogInit: User: adonn
+[2020.06.29-06.35.46:592][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.29-06.35.46:592][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.29-06.35.46:592][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.06.29-06.35.46:592][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.29-06.35.46:592][  0]LogMemory: Process Physical Memory: 116.28 MB used, 116.28 MB peak
+[2020.06.29-06.35.46:592][  0]LogMemory: Process Virtual Memory: 101.40 MB used, 101.40 MB peak
+[2020.06.29-06.35.46:592][  0]LogMemory: Physical Memory: 4426.11 MB used,  3626.05 MB free, 8052.16 MB total
+[2020.06.29-06.35.46:592][  0]LogMemory: Virtual Memory: 5150.32 MB used,  134212576.00 MB free, 134217728.00 MB total
+[2020.06.29-06.35.46:599][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.29-06.35.46:639][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.06.29-06.35.46:639][  0]LogInit: Using OS detected language (es-MX).
+[2020.06.29-06.35.46:639][  0]LogInit: Using OS detected locale (es-MX).
+[2020.06.29-06.35.46:641][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/es-MX/Editor.locres' could not be opened for reading!
+[2020.06.29-06.35.46:641][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/es-MX/EditorTutorials.locres' could not be opened for reading!
+[2020.06.29-06.35.46:641][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/es-MX/Keywords.locres' could not be opened for reading!
+[2020.06.29-06.35.46:641][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/es-MX/Category.locres' could not be opened for reading!
+[2020.06.29-06.35.46:641][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/es-MX/ToolTips.locres' could not be opened for reading!
+[2020.06.29-06.35.46:641][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/es-MX/PropertyNames.locres' could not be opened for reading!
+[2020.06.29-06.35.46:641][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/es-MX/Engine.locres' could not be opened for reading!
+[2020.06.29-06.35.46:642][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/es-MX/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.06.29-06.35.46:642][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/es-MX/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.06.29-06.35.46:642][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es-MX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.06.29-06.35.46:682][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.29-06.35.46:728][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.29-06.35.46:728][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.29-06.35.46:938][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.29-06.35.46:938][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.06.29-06.35.46:938][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.06.29-06.35.46:938][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.29-06.35.47:051][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.06.29-06.35.47:051][  0]LogD3D11RHI:       6052/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.06.29-06.35.47:068][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.06.29-06.35.47:068][  0]LogD3D11RHI:       128/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.06.29-06.35.47:070][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.29-06.35.47:070][  0]LogD3D11RHI:       0/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.29-06.35.47:070][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.29-06.35.47:123][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.29-06.35.47:123][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.29-06.35.47:123][  0]LogWindows: EnumDisplayDevices:
+[2020.06.29-06.35.47:124][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.06.29-06.35.47:124][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.06.29-06.35.47:124][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.06.29-06.35.47:125][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.06.29-06.35.47:125][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.06.29-06.35.47:125][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.06.29-06.35.47:126][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.06.29-06.35.47:126][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.06.29-06.35.47:126][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.06.29-06.35.47:126][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.06.29-06.35.47:126][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.06.29-06.35.47:126][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.06.29-06.35.47:205][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.06.29-06.35.47:208][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.06.29-06.35.47:208][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.29-06.35.47:208][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.06.29-06.35.47:252][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.29-06.35.47:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.06.29-06.35.47:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.06.29-06.35.47:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.06.29-06.35.47:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.06.29-06.35.47:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.06.29-06.35.47:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.06.29-06.35.47:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.29-06.35.47:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.06.29-06.35.47:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.29-06.35.47:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.06.29-06.35.47:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.06.29-06.35.47:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.06.29-06.35.47:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.06.29-06.35.47:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.06.29-06.35.47:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.29-06.35.47:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.06.29-06.35.47:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.06.29-06.35.47:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.06.29-06.35.47:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.06.29-06.35.47:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.06.29-06.35.47:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.06.29-06.35.47:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.06.29-06.35.47:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.06.29-06.35.47:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.06.29-06.35.47:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.29-06.35.47:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.06.29-06.35.47:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.06.29-06.35.47:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.06.29-06.35.47:869][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.29-06.35.47:878][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.29-06.35.47:945][  0]LogShaderCompilers: Guid format shader working directory is 22 characters bigger than the processId version (D:/Graficas/Apocalipsis/Intermediate/Shaders/WorkingDirectory/18028/).
+[2020.06.29-06.35.47:945][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/adonn/AppData/Local/Temp/UnrealShaderWorkingDir/EBC9D5DD41E7A3E7F2CACE8208EF2D10/'.
+[2020.06.29-06.35.47:946][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2020.06.29-06.35.48:947][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.29-06.35.49:029][  0]LogDerivedDataCache: Loaded boot cache 0.08s 104MB C:/Users/adonn/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.06.29-06.35.49:029][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/adonn/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.06.29-06.35.49:029][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Graficas/Apocalipsis/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.29-06.35.49:029][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.29-06.35.49:029][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Graficas/Apocalipsis/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.29-06.35.49:029][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.29-06.35.49:043][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.29-06.35.49:043][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.29-06.35.49:043][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.29-06.35.49:045][  0]LogDerivedDataCache: Using Local data cache path C:/Users/adonn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.29-06.35.49:045][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.29-06.35.49:045][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.29-06.35.49:123][  0]LogSlate: Using FreeType 2.10.0
+[2020.06.29-06.35.49:123][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.29-06.35.49:157][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2020.06.29-06.35.49:431][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.29-06.35.49:578][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.29-06.35.49:578][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.29-06.35.49:578][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.29-06.35.49:578][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.29-06.35.49:578][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.29-06.35.49:597][  0]LogNetVersion: Apocalipsis 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1140215772)
+[2020.06.29-06.35.50:151][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000023A7E5ED2C0), frame # 0
+[2020.06.29-06.35.50:151][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023A7E536D40), frame # 0
+[2020.06.29-06.35.50:152][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023A7E5D8400), frame # 0
+[2020.06.29-06.35.50:288][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 2 prioritized culture(s) in 0.129614 seconds
+[2020.06.29-06.35.50:296][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.06.29-06.35.50:296][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.06.29-06.35.50:296][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.29-06.35.50:682][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.29-06.35.50:687][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.29-06.35.50:799][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.29-06.35.50:800][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.29-06.35.50:803][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.29-06.35.50:807][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.29-06.35.50:815][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.29-06.35.51:090][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.29-06.35.51:113][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.29-06.35.51:113][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.29-06.35.51:171][  0]LogOcInput: OculusInput pre-init called
+[2020.06.29-06.35.51:183][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.06.29-06.35.51:183][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.06.29-06.35.51:256][  0]LogEngine: Initializing Engine...
+[2020.06.29-06.35.51:257][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.29-06.35.51:257][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.06.29-06.35.51:258][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.29-06.35.51:410][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.29-06.35.51:420][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.29-06.35.51:420][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023A02694600), frame # 0
+[2020.06.29-06.35.51:420][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023A02647B00), frame # 0
+[2020.06.29-06.35.51:443][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.29-06.35.51:443][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.29-06.35.51:443][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.29-06.35.51:443][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.29-06.35.51:443][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.29-06.35.51:443][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.29-06.35.51:443][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.29-06.35.51:443][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.29-06.35.51:443][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.29-06.35.51:443][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.29-06.35.51:454][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.29-06.35.51:454][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.06.29-06.35.51:540][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.06.29-06.35.51:544][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.29-06.35.51:546][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.29-06.35.51:546][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.29-06.35.51:548][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.29-06.35.51:549][  0]LogInit: FAudioDevice initialized.
+[2020.06.29-06.35.51:549][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.29-06.35.51:616][  0]LogDerivedDataCache: Saved boot cache 0.07s 104MB C:/Users/adonn/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.06.29-06.35.51:622][  0]LogInit: Texture streaming: Enabled
+[2020.06.29-06.35.51:640][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.29-06.35.51:640][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.29-06.35.51:642][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.29-06.35.51:717][  0]LogInit: Transaction tracking system initialized
+[2020.06.29-06.35.51:742][  0]BlueprintLog: New page: Cargar el editor
+[2020.06.29-06.35.51:823][  0]LocalizationService: Localization service is disabled
+[2020.06.29-06.35.52:017][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.29-06.35.52:017][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.29-06.35.52:171][  0]LogFileCache: Scanning file cache for directory 'D:/Graficas/Apocalipsis/Content/' took 0.01s
+[2020.06.29-06.35.52:451][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.29-06.35.52:451][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.449
+[2020.06.29-06.35.52:451][  0]Cmd: MAP LOAD FILE="D:/Graficas/Apocalipsis/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.29-06.35.52:451][  0]LightingResults: New page: Diseñar la iluminación
+[2020.06.29-06.35.52:452][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-06.35.52:452][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.35.52:452][  0]MapCheck: New page: Revisión del mapa
+[2020.06.29-06.35.52:452][  0]LightingResults: New page: Diseñar la iluminación
+[2020.06.29-06.35.52:463][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023A02694600), frame # 0
+[2020.06.29-06.35.52:463][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023A02647B00), frame # 0
+[2020.06.29-06.35.52:463][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.06.29-06.35.53:869][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Items/Información_Item.Información_Item_C:Información'. Unknown structure.
+[2020.06.29-06.35.53:869][  0]LogClass: Warning: Property Información of Información has a struct type mismatch (tag STRUCT_REINST_Estructura_Items_Completa_4 != prop FallbackStruct) in package:  D:/Graficas/Apocalipsis/Content/Items/Información_Item.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.06.29-06.35.53:958][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/InterfazDeUsuario/Widget_Item.Widget_Item_C:Información'. Unknown structure.
+[2020.06.29-06.35.53:982][  0]LogClass: Warning: Property Información of Información has a struct type mismatch (tag STRUCT_REINST_Estructura_Items_Completa_4 != prop FallbackStruct) in package:  D:/Graficas/Apocalipsis/Content/InterfazDeUsuario/Widget_Item.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.06.29-06.35.56:234][  0]LogClass: Warning: Property Información of Información has a struct type mismatch (tag FallbackStruct != prop Estructura_Items_Completa) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.06.29-06.35.56:235][  0]LogClass: Warning: Property Información of Información has a struct type mismatch (tag FallbackStruct != prop Estructura_Items_Completa) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.06.29-06.35.58:232][  0]LogStaticMesh: Generando la malla estática First_Aid_Kit...
+[2020.06.29-06.35.58:389][  0]LogStaticMesh: Built static mesh [0.16s] /Game/Items/BotiquínMédico/First_Aid_Kit.First_Aid_Kit
+[2020.06.29-06.35.58:924][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.29-06.35.58:924][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023A15C83200), frame # 0
+[2020.06.29-06.35.58:924][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023A15B9FB00), frame # 0
+[2020.06.29-06.35.58:943][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.29-06.35.58:962][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.06.29-06.35.58:962][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.29-06.35.58:962][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2020.06.29-06.35.58:962][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 6.512
+[2020.06.29-06.35.58:964][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.964
+[2020.06.29-06.35.59:143][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.35.59:152][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.35.59:161][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.35.59:170][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.35.59:183][  0]LogCollectionManager: Loaded 0 collections in 0.000924 seconds
+[2020.06.29-06.35.59:203][  0]LogFileCache: Scanning file cache for directory 'D:/Graficas/Apocalipsis/Saved/Collections/' took 0.00s
+[2020.06.29-06.35.59:203][  0]LogFileCache: Scanning file cache for directory 'D:/Graficas/Apocalipsis/Content/Developers/adonn/Collections/' took 0.00s
+[2020.06.29-06.35.59:203][  0]LogFileCache: Scanning file cache for directory 'D:/Graficas/Apocalipsis/Content/Collections/' took 0.00s
+[2020.06.29-06.35.59:203][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 3427 classes and 822 folders.
+[2020.06.29-06.35.59:208][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.06.29-06.35.59:672][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.06.29-06.35.59:673][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.06.29-06.35.59:753][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.29-06.35.59:757][  0]LogTemp: IOS device listing is disabled (too many failed attempts)!
+[2020.06.29-06.35.59:757][  0]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.29-06.35.59:777][  0]LogSlate: Took 0.011123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.29-06.35.59:946][  0]LogRenderer: Reallocating scene render targets to support 1052x472 Format 10 NumSamples 1 (Frame:1).
+[2020.06.29-06.36.00:031][  0]LogSlate: Took 0.007675 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.29-06.36.00:106][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.06.29-06.36.00:106][  0]LogLoad: (Engine Initialization) Total time: 15.10 seconds
+[2020.06.29-06.36.00:106][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.29-06.36.00:163][  0]LogAssetRegistry: Asset discovery search completed in 11.0075 seconds
+[2020.06.29-06.36.00:169][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.06.29-06.36.00:171][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.29-06.36.01:455][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.29-06.36.01:506][  4]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.29-06.36.03:328][112]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Policía/Blueprints/Policía.Policía
+[2020.06.29-06.36.03:985][112]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2020.06.29-06.36.05:259][112]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InterfazDeUsuario/Inventario.Inventario
+[2020.06.29-06.36.05:808][112]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Items/Item.Item
+[2020.06.29-06.36.06:292][112]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Items/Tabla_Items.Tabla_Items
+[2020.06.29-06.36.06:458][112]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Items/BotiquínMédico/First_Aid_Kit.First_Aid_Kit
+[2020.06.29-06.36.06:938][112]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-06.36.06:938][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.36.07:173][112]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Items/MuniciónGrande/Municion.Municion
+[2020.06.29-06.36.07:367][112]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-06.36.07:367][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.36.08:054][112]LogRenderer: Reallocating scene render targets to support 1144x704 Format 10 NumSamples 1 (Frame:1).
+[2020.06.29-06.36.08:054][112]LogSlate: Took 0.007028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.29-06.36.11:573][292]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.29-06.36.21:542][881]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-06.36.21:542][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.36.22:954][943]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-06.36.22:954][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.36.25:232][154]LogSlate: Took 0.017269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.06.29-06.36.26:865][281]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.29-06.36.26:895][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.29-06.36.26:906][281]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (28 jun. 2020 20:36:26)
+[2020.06.29-06.36.26:907][281]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.06.29-06.36.26:908][281]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.06.29-06.36.26:909][281]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.29-06.36.26:926][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017163s)
+[2020.06.29-06.36.26:927][281]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.29-06.36.26:927][281]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023A1EF49400), frame # 1281
+[2020.06.29-06.36.26:927][281]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023ABFE00400), frame # 1281
+[2020.06.29-06.36.26:928][281]LogPlayLevel: PIE: World Init took: (0.001738s)
+[2020.06.29-06.36.26:928][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019088s)
+[2020.06.29-06.36.27:007][281]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.06.29-06.36.27:011][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.29-06.36.27:011][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.29-06.36.27:011][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.29-06.36.27:011][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.29-06.36.27:011][281]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.29-06.36.27:011][281]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.29-06.36.27:011][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.29-06.36.27:011][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.29-06.36.27:012][281]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.29-06.36.27:012][281]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.29-06.36.27:015][281]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.29-06.36.27:015][281]LogAudioMixer: Display: 1: FrontRight
+[2020.06.29-06.36.27:040][281]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.06.29-06.36.27:040][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.29-06.36.27:040][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.29-06.36.27:040][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.29-06.36.27:040][281]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.29-06.36.27:057][281]LogInit: FAudioDevice initialized.
+[2020.06.29-06.36.27:090][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.36.27:090][281]LogLoad: Game class is 'Apocalipsis_Mode_C'
+[2020.06.29-06.36.27:095][281]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-01.36.27
+[2020.06.29-06.36.27:096][281]LogWorld: Bringing up level for play took: 0.005128
+[2020.06.29-06.36.27:096][281]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.06.29-06.36.27:100][281]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.06.29-06.36.27:113][281]PIE: El servidor ha iniciado la sesión
+[2020.06.29-06.36.27:116][281]PIE: Play in editor total start time 0.222 seconds.
+[2020.06.29-06.36.27:191][282]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.06.29-06.36.51:124][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.36.51:126][521]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.29-06.36.51:147][521]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.29-06.36.51:149][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.36.51:149][521]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.29-06.36.51:149][521]LogSlate: Window 'Apocalipsis Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.06.29-06.36.51:166][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.36.51:167][521]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-06.36.51:169][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.36.51:182][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.29-06.36.51:192][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.36.51:255][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.36.51:333][521]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023A1EF49400), frame # 2521
+[2020.06.29-06.36.51:333][521]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023ABFE00400), frame # 2521
+[2020.06.29-06.36.51:340][521]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2020.06.29-06.36.51:391][522]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.06.29-06.37.10:844][437]LogTemp: IOS device listing is disabled (too many failed attempts)!
+[2020.06.29-06.37.11:154][474]BlueprintLog: New page: Compilar Item
+[2020.06.29-06.37.11:264][474]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.06.29-06.37.12:927][622]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.06.29-06.37.12:985][622]LogSavePackage: Moving 'D:/Graficas/Apocalipsis/Saved/ThirdPersonExampleMap40B4E93B4CF2EB4D889BB49A5E079E3A.tmp' to 'D:/Graficas/Apocalipsis/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.29-06.37.13:044][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/Graficas/Apocalipsis/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.06.29-06.37.13:130][622]LogSavePackage: Moving 'D:/Graficas/Apocalipsis/Saved/ThirdPersonExampleMap_BuiltData14930354493604A6552081B90C9CF8D7.tmp' to 'D:/Graficas/Apocalipsis/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.06.29-06.37.13:148][622]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.29-06.37.13:149][622]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.29-06.37.13:149][622]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.06.29-06.37.14:651][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.06.29-06.37.14:690][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Item" FILE="D:/Graficas/Apocalipsis/Content/Items/Item.uasset" SILENT=true
+[2020.06.29-06.37.14:732][732]LogSavePackage: Moving 'D:/Graficas/Apocalipsis/Saved/ItemD99DB5B0413A43D3ADA344AE9332BCBB.tmp' to 'D:/Graficas/Apocalipsis/Content/Items/Item.uasset'
+[2020.06.29-06.37.14:748][732]AssetCheck: New page: Asset Save: Item
+[2020.06.29-06.37.14:748][732]LogContentValidation: Display: Validating Blueprint /Game/Items/Item.Item
+[2020.06.29-06.37.16:127][840]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.29-06.37.16:156][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.29-06.37.16:157][840]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (28 jun. 2020 20:37:16)
+[2020.06.29-06.37.16:157][840]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.29-06.37.16:173][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015871s)
+[2020.06.29-06.37.16:174][840]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.29-06.37.16:174][840]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023ADA511800), frame # 4840
+[2020.06.29-06.37.16:174][840]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023A8FFED300), frame # 4840
+[2020.06.29-06.37.16:174][840]LogPlayLevel: PIE: World Init took: (0.001551s)
+[2020.06.29-06.37.16:174][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017599s)
+[2020.06.29-06.37.16:213][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.06.29-06.37.16:216][840]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.29-06.37.16:216][840]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.29-06.37.16:216][840]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.29-06.37.16:216][840]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.29-06.37.16:216][840]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.29-06.37.16:216][840]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.29-06.37.16:216][840]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.29-06.37.16:216][840]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.29-06.37.16:216][840]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.29-06.37.16:216][840]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.29-06.37.16:219][840]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.29-06.37.16:219][840]LogAudioMixer: Display: 1: FrontRight
+[2020.06.29-06.37.16:243][840]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.06.29-06.37.16:243][840]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.29-06.37.16:243][840]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.29-06.37.16:243][840]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.29-06.37.16:244][840]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.29-06.37.16:260][840]LogInit: FAudioDevice initialized.
+[2020.06.29-06.37.16:316][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.37.16:316][840]LogLoad: Game class is 'Apocalipsis_Mode_C'
+[2020.06.29-06.37.16:320][840]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-01.37.16
+[2020.06.29-06.37.16:322][840]LogWorld: Bringing up level for play took: 0.005040
+[2020.06.29-06.37.16:322][840]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.06.29-06.37.16:336][840]PIE: El servidor ha iniciado la sesión
+[2020.06.29-06.37.16:338][840]PIE: Play in editor total start time 0.182 seconds.
+[2020.06.29-06.37.44:604][356]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.37.44:617][356]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.29-06.37.44:637][356]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.29-06.37.44:639][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.37.44:639][356]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.29-06.37.44:640][356]LogSlate: Window 'Apocalipsis Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.06.29-06.37.44:646][356]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.37.44:647][356]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-06.37.44:648][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.37.44:656][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.29-06.37.44:663][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.37.44:712][356]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.37.44:742][356]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023A8FFED300), frame # 6356
+[2020.06.29-06.37.44:742][356]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023ADA511800), frame # 6356
+[2020.06.29-06.37.44:746][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.06.29-06.37.44:799][357]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.06.29-06.38.13:080][352]BlueprintLog: New page: Compilar Item
+[2020.06.29-06.38.13:157][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.06.29-06.38.16:137][598]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.29-06.38.16:173][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.29-06.38.16:173][598]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (28 jun. 2020 20:38:16)
+[2020.06.29-06.38.16:173][598]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.29-06.38.16:189][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015348s)
+[2020.06.29-06.38.16:191][598]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.29-06.38.16:191][598]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023A8C698600), frame # 9598
+[2020.06.29-06.38.16:192][598]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023ADBF5C540), frame # 9598
+[2020.06.29-06.38.16:192][598]LogPlayLevel: PIE: World Init took: (0.002997s)
+[2020.06.29-06.38.16:192][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018610s)
+[2020.06.29-06.38.16:236][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.06.29-06.38.16:238][598]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.29-06.38.16:238][598]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.29-06.38.16:238][598]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.29-06.38.16:238][598]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.29-06.38.16:238][598]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.29-06.38.16:238][598]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.29-06.38.16:238][598]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.29-06.38.16:238][598]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.29-06.38.16:239][598]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.29-06.38.16:239][598]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.29-06.38.16:242][598]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.29-06.38.16:242][598]LogAudioMixer: Display: 1: FrontRight
+[2020.06.29-06.38.16:270][598]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.06.29-06.38.16:270][598]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.29-06.38.16:270][598]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.29-06.38.16:270][598]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.29-06.38.16:271][598]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.29-06.38.16:272][598]LogInit: FAudioDevice initialized.
+[2020.06.29-06.38.16:324][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.38.16:325][598]LogLoad: Game class is 'Apocalipsis_Mode_C'
+[2020.06.29-06.38.16:329][598]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-01.38.16
+[2020.06.29-06.38.16:330][598]LogWorld: Bringing up level for play took: 0.004987
+[2020.06.29-06.38.16:331][598]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.06.29-06.38.16:341][598]PIE: El servidor ha iniciado la sesión
+[2020.06.29-06.38.16:342][598]PIE: Play in editor total start time 0.17 seconds.
+[2020.06.29-06.38.17:288][630]LogRenderer: Reallocating scene render targets to support 1536x800 Format 10 NumSamples 1 (Frame:33).
+[2020.06.29-06.38.21:587][816]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.38.21:607][816]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.29-06.38.21:627][816]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.29-06.38.21:630][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.38.21:630][816]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.29-06.38.21:630][816]LogSlate: Window 'Apocalipsis Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.06.29-06.38.21:641][816]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.38.21:642][816]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-06.38.21:644][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.38.21:652][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.29-06.38.21:659][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.38.21:704][816]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.38.21:735][816]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023ADBF5C540), frame # 9816
+[2020.06.29-06.38.21:735][816]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023A8C698600), frame # 9816
+[2020.06.29-06.38.21:741][816]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.06.29-06.38.21:793][817]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.06.29-06.38.21:901][823]LogTemp: IOS device listing is disabled (too many failed attempts)!
+[2020.06.29-06.38.34:991][240]BlueprintLog: New page: Compilar Item
+[2020.06.29-06.38.35:068][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.06.29-06.38.36:738][387]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.29-06.38.36:766][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.29-06.38.36:766][387]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (28 jun. 2020 20:38:36)
+[2020.06.29-06.38.36:767][387]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.29-06.38.36:782][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015000s)
+[2020.06.29-06.38.36:783][387]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.29-06.38.36:783][387]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023AC57D7E00), frame # 11387
+[2020.06.29-06.38.36:783][387]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023ADAFF8680), frame # 11387
+[2020.06.29-06.38.36:784][387]LogPlayLevel: PIE: World Init took: (0.001827s)
+[2020.06.29-06.38.36:784][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017017s)
+[2020.06.29-06.38.36:822][387]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.06.29-06.38.36:823][387]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.29-06.38.36:824][387]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.29-06.38.36:824][387]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.29-06.38.36:824][387]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.29-06.38.36:824][387]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.29-06.38.36:824][387]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.29-06.38.36:824][387]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.29-06.38.36:824][387]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.29-06.38.36:824][387]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.29-06.38.36:824][387]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.29-06.38.36:827][387]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.29-06.38.36:827][387]LogAudioMixer: Display: 1: FrontRight
+[2020.06.29-06.38.36:851][387]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.06.29-06.38.36:851][387]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.29-06.38.36:851][387]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.29-06.38.36:851][387]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.29-06.38.36:851][387]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.29-06.38.36:868][387]LogInit: FAudioDevice initialized.
+[2020.06.29-06.38.36:906][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.38.36:906][387]LogLoad: Game class is 'Apocalipsis_Mode_C'
+[2020.06.29-06.38.36:911][387]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-01.38.36
+[2020.06.29-06.38.36:913][387]LogWorld: Bringing up level for play took: 0.005321
+[2020.06.29-06.38.36:913][387]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.06.29-06.38.36:923][387]PIE: El servidor ha iniciado la sesión
+[2020.06.29-06.38.36:924][387]PIE: Play in editor total start time 0.159 seconds.
+[2020.06.29-06.38.44:082][765]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.38.44:086][765]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.29-06.38.44:107][765]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.29-06.38.44:108][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.38.44:108][765]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.29-06.38.44:108][765]LogSlate: Window 'Apocalipsis Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.06.29-06.38.44:121][765]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.38.44:121][765]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-06.38.44:122][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.38.44:134][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.29-06.38.44:140][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.38.44:177][765]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.38.44:203][765]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023ADAFF8680), frame # 11765
+[2020.06.29-06.38.44:203][765]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023AC57D7E00), frame # 11765
+[2020.06.29-06.38.44:206][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.06.29-06.38.44:250][766]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.06.29-06.38.51:705][449]BlueprintLog: New page: Compilar Item
+[2020.06.29-06.38.51:783][449]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.06.29-06.38.53:400][586]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.29-06.38.53:435][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.29-06.38.53:435][586]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (28 jun. 2020 20:38:53)
+[2020.06.29-06.38.53:435][586]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.29-06.38.53:451][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016314s)
+[2020.06.29-06.38.53:453][586]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.29-06.38.53:453][586]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023ADC5CBE00), frame # 12586
+[2020.06.29-06.38.53:453][586]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023ADA6F0900), frame # 12586
+[2020.06.29-06.38.53:454][586]LogPlayLevel: PIE: World Init took: (0.002187s)
+[2020.06.29-06.38.53:454][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018713s)
+[2020.06.29-06.38.53:500][586]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.06.29-06.38.53:503][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.29-06.38.53:503][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.29-06.38.53:503][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.29-06.38.53:503][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.29-06.38.53:503][586]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.29-06.38.53:503][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.29-06.38.53:503][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.29-06.38.53:503][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.29-06.38.53:503][586]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.29-06.38.53:503][586]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.29-06.38.53:507][586]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.29-06.38.53:507][586]LogAudioMixer: Display: 1: FrontRight
+[2020.06.29-06.38.53:534][586]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.06.29-06.38.53:534][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.29-06.38.53:534][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.29-06.38.53:535][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.29-06.38.53:535][586]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.29-06.38.53:554][586]LogInit: FAudioDevice initialized.
+[2020.06.29-06.38.53:604][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.38.53:605][586]LogLoad: Game class is 'Apocalipsis_Mode_C'
+[2020.06.29-06.38.53:610][586]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-01.38.53
+[2020.06.29-06.38.53:612][586]LogWorld: Bringing up level for play took: 0.005868
+[2020.06.29-06.38.53:612][586]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.06.29-06.38.53:624][586]PIE: El servidor ha iniciado la sesión
+[2020.06.29-06.38.53:625][586]PIE: Play in editor total start time 0.191 seconds.
+[2020.06.29-06.39.07:880][338]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.39.07:886][338]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.29-06.39.07:906][338]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.29-06.39.07:908][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.39.07:908][338]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.29-06.39.07:908][338]LogSlate: Window 'Apocalipsis Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.06.29-06.39.07:920][338]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.39.07:920][338]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-06.39.07:921][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.39.07:931][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.29-06.39.07:938][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.39.07:982][338]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.39.08:016][338]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023ADA6F0900), frame # 13338
+[2020.06.29-06.39.08:016][338]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023ADC5CBE00), frame # 13338
+[2020.06.29-06.39.08:020][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.06.29-06.39.08:067][339]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.06.29-06.39.15:712][144]BlueprintLog: New page: Compilar Item
+[2020.06.29-06.39.15:795][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.06.29-06.39.17:346][269]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.29-06.39.17:378][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.29-06.39.17:379][269]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (28 jun. 2020 20:39:17)
+[2020.06.29-06.39.17:379][269]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.29-06.39.17:394][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014885s)
+[2020.06.29-06.39.17:395][269]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.29-06.39.17:395][269]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023A9C565800), frame # 14269
+[2020.06.29-06.39.17:395][269]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023AACCA4B80), frame # 14269
+[2020.06.29-06.39.17:395][269]LogPlayLevel: PIE: World Init took: (0.001526s)
+[2020.06.29-06.39.17:395][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016598s)
+[2020.06.29-06.39.17:438][269]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.06.29-06.39.17:439][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.29-06.39.17:440][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.29-06.39.17:440][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.29-06.39.17:440][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.29-06.39.17:440][269]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.29-06.39.17:440][269]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.29-06.39.17:440][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.29-06.39.17:440][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.29-06.39.17:440][269]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.29-06.39.17:440][269]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.29-06.39.17:443][269]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.29-06.39.17:443][269]LogAudioMixer: Display: 1: FrontRight
+[2020.06.29-06.39.17:469][269]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.06.29-06.39.17:469][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.29-06.39.17:469][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.29-06.39.17:469][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.29-06.39.17:469][269]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.29-06.39.17:487][269]LogInit: FAudioDevice initialized.
+[2020.06.29-06.39.17:533][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.39.17:534][269]LogLoad: Game class is 'Apocalipsis_Mode_C'
+[2020.06.29-06.39.17:539][269]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-01.39.17
+[2020.06.29-06.39.17:541][269]LogWorld: Bringing up level for play took: 0.006036
+[2020.06.29-06.39.17:541][269]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.06.29-06.39.17:551][269]PIE: El servidor ha iniciado la sesión
+[2020.06.29-06.39.17:553][269]PIE: Play in editor total start time 0.176 seconds.
+[2020.06.29-06.39.32:967][103]LogTemp: IOS device listing is disabled (too many failed attempts)!
+[2020.06.29-06.40.07:073][963]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.40.07:087][963]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.29-06.40.07:117][963]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.29-06.40.07:119][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.40.07:119][963]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.29-06.40.07:119][963]LogSlate: Window 'Apocalipsis Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.06.29-06.40.07:124][963]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.40.07:125][963]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-06.40.07:126][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.40.07:135][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.29-06.40.07:145][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.40.07:192][963]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.40.07:223][963]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023AACCA4B80), frame # 16963
+[2020.06.29-06.40.07:223][963]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023A9C565800), frame # 16963
+[2020.06.29-06.40.07:228][963]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.06.29-06.40.07:283][964]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.06.29-06.40.08:705][ 68]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.29-06.40.08:735][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.29-06.40.08:736][ 68]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (28 jun. 2020 20:40:08)
+[2020.06.29-06.40.08:736][ 68]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.29-06.40.08:751][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015518s)
+[2020.06.29-06.40.08:752][ 68]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.29-06.40.08:752][ 68]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023ABFAB0200), frame # 17068
+[2020.06.29-06.40.08:752][ 68]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023ADB067D80), frame # 17068
+[2020.06.29-06.40.08:752][ 68]LogPlayLevel: PIE: World Init took: (0.001717s)
+[2020.06.29-06.40.08:752][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017411s)
+[2020.06.29-06.40.08:795][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.06.29-06.40.08:796][ 68]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.29-06.40.08:796][ 68]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.29-06.40.08:796][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.29-06.40.08:796][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.29-06.40.08:796][ 68]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.29-06.40.08:796][ 68]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.29-06.40.08:796][ 68]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.29-06.40.08:796][ 68]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.29-06.40.08:796][ 68]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.29-06.40.08:796][ 68]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.29-06.40.08:799][ 68]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.29-06.40.08:799][ 68]LogAudioMixer: Display: 1: FrontRight
+[2020.06.29-06.40.08:823][ 68]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.06.29-06.40.08:823][ 68]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.29-06.40.08:823][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.29-06.40.08:824][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.29-06.40.08:824][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.29-06.40.08:841][ 68]LogInit: FAudioDevice initialized.
+[2020.06.29-06.40.08:894][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.40.08:894][ 68]LogLoad: Game class is 'Apocalipsis_Mode_C'
+[2020.06.29-06.40.08:899][ 68]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-01.40.08
+[2020.06.29-06.40.08:900][ 68]LogWorld: Bringing up level for play took: 0.005082
+[2020.06.29-06.40.08:901][ 68]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.06.29-06.40.08:911][ 68]PIE: El servidor ha iniciado la sesión
+[2020.06.29-06.40.08:913][ 68]PIE: Play in editor total start time 0.179 seconds.
+[2020.06.29-06.40.44:044][650]LogTemp: IOS device listing is disabled (too many failed attempts)!
+[2020.06.29-06.41.32:448][812]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.41.32:467][812]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.29-06.41.32:487][812]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.29-06.41.32:490][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.29-06.41.32:490][812]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.29-06.41.32:491][812]LogSlate: Window 'Apocalipsis Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.06.29-06.41.32:501][812]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.41.32:501][812]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-06.41.32:503][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.41.32:522][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.29-06.41.32:533][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-06.41.32:599][812]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.29-06.41.32:650][812]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023ADB067D80), frame # 20812
+[2020.06.29-06.41.32:650][812]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023ABFAB0200), frame # 20812
+[2020.06.29-06.41.32:657][812]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2020.06.29-06.41.32:747][813]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.06.29-06.41.34:620][950]LogEditorViewport: Clicking on Actor (LMB): Item_C (Item2)
+[2020.06.29-06.41.36:581][ 76]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.06.29-06.41.37:899][ 76]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.319 s
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: === Handled ensure: ===
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: 
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: Ensure condition failed: GIsTransacting [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Engine/Private/Components/SceneComponent.cpp] [Line: 1140]
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: 
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: Stack: 
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe0de273b9 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe0c9f76f0 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe0c929e7e UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe0c57f6e8 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe0c5b226d UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe0c5a6e68 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe42c57aa1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe2520aafe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe2520ac1b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe252df644 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe25145afb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.29-06.41.37:899][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe250dbbb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe2514402d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe2563f353 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe252a4428 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe2529f853 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe2565243f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe251baacd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe25a90056 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff6d4777800 UE4Editor.exe!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff6d478ba7c UE4Editor.exe!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff6d478bb5a UE4Editor.exe!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff6d479e31d UE4Editor.exe!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff6d47a145a UE4Editor.exe!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe89776fd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe8a93cec1 ntdll.dll!UnknownFunction []
+[2020.06.29-06.41.37:900][ 76]LogOutputDevice: Error: 
